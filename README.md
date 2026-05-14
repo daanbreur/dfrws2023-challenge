@@ -1,7 +1,7 @@
 # <p style="text-align: center;"> DFRWS 2023 Challenge - The Troubled Elevator</p>
 The DFRWS 2023 challenge (**The Troubled Elevator**)  takes a deep dive into the domain of Industrial Control Systems (ICS), specifically focusing on programmable logic controllers (PLC). These systems are increasingly critical in various sectors, such as energy, water, transportation, and manufacturing, monitoring and controlling industrial processes. This challenge aims to provide deeper insights into ICS network traffic analysis and device memory in a real-world scenario.
 
-[![ICS Example](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Figure1.jpg)](https://dfrws.org/forensic-challenges/)
+[![ICS Example](readme_images/Figure1.jpg)](https://dfrws.org/forensic-challenges/)
 
 The scenario for this challenge, "The Troubled Elevator," involves investigating a mysterious incident in a bank’s executive-only elevator. Participants with different technical skills in forensic investigations are encouraged in this competition, with opportunities for innovative investigative approaches in network, memory, and embedded systems.
 
@@ -41,7 +41,7 @@ Security and Forensics Engineering (SAFE) Lab at Virginia Commonwealth Universit
 
 **SAFE Lab Team:**
 
-[![Photos](https://github.com/dndusdndus12/dfrws2023-challenge-img/blob/main/Photo.png)](http://people.vcu.edu/~iahmed3/)
+[![Photos](readme_images/Photo.png)](http://people.vcu.edu/~iahmed3/)
 
 - **Irfan Ahmed**, DFRWS Challenge Chair and Associate Professor at Virginia Commonwealth University
 - **Wooyeon Jo**, Postdoctoral Research Fellow at Virginia Commonwealth University
